@@ -15,6 +15,7 @@ helix
 inbox
 natrix
 salix
+lex
 oogenesis
 vilex
 ilex
