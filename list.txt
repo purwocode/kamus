@@ -6,6 +6,7 @@ eskrim
 exodus
 offax
 xantina
+ninox
 ifut
 ngawur
 ngacir
