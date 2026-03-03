@@ -8,6 +8,7 @@ offax
 xantelesma
 xantina
 ninox
+ifrasy
 ifut
 ngawur
 ngacir
