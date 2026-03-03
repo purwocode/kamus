@@ -3,6 +3,7 @@ lux
 xantina
 ngulek
 rifi
+xilan
 maxima
 nakes
 axolotl
