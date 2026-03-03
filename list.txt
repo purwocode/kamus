@@ -3,6 +3,7 @@ lux
 bodrex
 nganjuk
 eskrim
+exodus
 offax
 xantina
 ifut
