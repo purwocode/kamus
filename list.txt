@@ -21,6 +21,8 @@ salix
 lex
 oogenesis
 vilex
+exselse
+excelsum
 ilex
 donax
 xilem
