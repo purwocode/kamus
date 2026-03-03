@@ -3,6 +3,7 @@ lux
 ngulek
 rifi
 maxima
+nakes
 axolotl
 annex
 addax
