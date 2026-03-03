@@ -5517,6 +5517,7 @@ deparpolisasi
 departemen
 departemental
 departementalisasi
+port
 dependen
 dependensi
 depersonalisasi
