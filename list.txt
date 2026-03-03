@@ -1,6 +1,7 @@
 ayub
 lux
 bodrex
+excelsa
 nganjuk
 eskrim
 exodus
