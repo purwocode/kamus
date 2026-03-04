@@ -45,7 +45,6 @@ ngulek
 ngawi
 xilofobia
 unisex
-tifosi
 rifi
 xantin
 maxima
@@ -116,7 +115,6 @@ nontax
 nothopanax
 nephotettix
 nephototix
-offax
 pallacalyx
 rhinoplax
 phoenix
@@ -9949,7 +9947,6 @@ hutan
 hutang
 huyung
 ialah
-iatrogenik
 iba
 ibadah
 ibadat
@@ -10014,9 +10011,6 @@ idrak
 idu
 iduladha
 idulfitri
-ifah
-ifrit
-iftar
 iftitah
 iga
 igal
@@ -18951,7 +18945,6 @@ ngos-ngosan
 ngot-ngotan
 ngowos
 ngoyo
-ngung
 nia
 niaga
 nian
@@ -19458,7 +19451,6 @@ onyak-anyik
 onyang
 onyok
 onyot
-oogenesis
 oolit
 opa
 opak
@@ -25497,7 +25489,6 @@ siduk
 sif
 sifat
 sifatullah
-sifer
 sifilis
 sifilobia
 sifiloid
@@ -29190,7 +29181,6 @@ uran-uran
 uranisme
 uranium
 uranologi
-uranus
 urap
 uras
 urat
@@ -29826,22 +29816,18 @@ xantena
 xantofil
 xenia
 xenofili
-xenofobia
 xenoglosia
 xenograf
 xenokrasi
 xenolit
 xenomania
-xenon
 xerofil
 xerofit
 xeroftalmia
 xerografi
 xerosis
 xifoid
-xilem
 xilena
-xilofon
 xilograf
 xilografi
 xiloid
